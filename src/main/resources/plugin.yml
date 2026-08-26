@@ -1,0 +1,8 @@
+name: ControlChip
+version: '${project.version}'
+main: cyberprank.controlchip.ControlChip
+api-version: 1.18
+depend: [ ControlPlayer ]
+commands:
+  stopcontrol:
+    description: 'stop controlling player'
