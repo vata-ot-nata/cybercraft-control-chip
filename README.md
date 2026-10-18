@@ -1,5 +1,5 @@
 # Cybercraft Control Chip
-[Download](https://github.com/vata-ot-nata/cybercraft-control-chip/releases/tag/v1.0.0/latest)
+[Download](https://github.com/vata-ot-nata/cybercraft-control-chip/releases/latest)
 
 Cybercraft Implants is a plugin from the CyberCraft paper-plugin series. It adds a mind-control chip.
 To insert a chip into a victim, right-click on them. To begin controlling them, right-click again.
